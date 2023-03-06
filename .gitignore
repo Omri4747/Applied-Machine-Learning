@@ -1,0 +1,15 @@
+# Ignore Jupiter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore JetBrains IDEs' settings and metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
